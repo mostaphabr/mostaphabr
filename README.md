@@ -2,10 +2,10 @@
 <h3 align="center">A passionate Full Stack Web Developer & AI Integration Enthusiast from Morocco 🇲🇦</h3>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_LINK_HERE" target="_blank">
+  <a href="https://mostaphabr.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://linkedin.com/in/mostapha-dev" target="_blank">
+  <a href="https://www.linkedin.com/in/mostapha-web-developer" target="_blank">
     <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
